@@ -1,6 +1,1 @@
-language: python
-python:
-  
-
-script:
-  - pytest
+language: perl
